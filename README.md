@@ -1,8 +1,8 @@
 # Hey 👋
 
-I'm Bryan Scalzo, a Senior Mobile Engineer focused on React Native, Expo, iOS & Android, and AI-powered products.
+I'm Bryan Scalzo, a Senior Mobile Engineer focused on React Native, Expo, and AI-powered products.
 
-I build polished mobile experiences, scalable app architecture, and products that feel good to use.
+Check out my work.
 
 ## 🔗 Links
 
